@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m a tech enthusiast and builder.<br>🔭 Exploring the world of blockchain, web development, and open-source magic.<br>🌱 I’m currently a MERN Stack developer.<br>🤝 Always excited to connect with others who are passionate about creating the future of tech.<br>💬 Let’s innovate together!<br>⚡ Fun fact:<br>It would be a lie, if I say I'm not a sleep deprived and highly caffeinated individual.
+👋 Hey there! I’m a tech enthusiast and builder.<br>🔭 Exploring the world of blockchain, web development, and open-source magic.<br>🌱 I’m currently a Full Stack developer.<br>🤝 Always excited to connect with others who are passionate about creating the future of tech.<br>💬 Let’s innovate together!<br>⚡ Fun fact:<br>It would be a lie, if I say I'm not a sleep deprived and highly caffeinated individual.
 
 
 # 💻 Tech Stack:
